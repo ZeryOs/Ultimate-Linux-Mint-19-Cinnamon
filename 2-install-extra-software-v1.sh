@@ -44,7 +44,7 @@ sh install-peek-v*.sh
 
 # Redshift
 
-sh install-redshift-v*.sh
+#sh install-redshift-v*.sh
 
 ###############################################################################################
 
@@ -56,14 +56,14 @@ sh install-simplescreenrecorder-v*.sh
 
 # Spotify
 
-sh install-spotify-v*.sh
+#sh install-spotify-v*.sh
 
 
 ###############################################################################################
 
 # Sublime text 3
 
-sh install-sublime-text-v*.sh
+#sh install-sublime-text-v*.sh
 
 
 ###############################################################################################
@@ -76,13 +76,13 @@ sh install-sublime-text-v*.sh
 
 # Variety
 
-sh install-variety-v*.sh
+#sh install-variety-v*.sh
 
 ###############################################################################################
 
 # Vivaldi
 
-sh install-vivaldi-snapshot-v*.sh
+#sh install-vivaldi-snapshot-v*.sh
 
 ###############################################################################################
 
